@@ -1,2 +1,2 @@
 #!/bin/bash
-file -name '*.j' -type f -delete
+file . -name '*.j' -type f -delete
